@@ -1,0 +1,6 @@
+[submodule "qr_util"]
+	path = qr_util
+	url = https://github.com/elparthka/qrcode-generator.git
+[submodule "svg_util"]
+	path = svg_util
+	url = https://github.com/elparthka/nsvg.git
