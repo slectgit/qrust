@@ -25,4 +25,4 @@ qrust "https://github.com/slectgit/deno-rest" 128 slect-alt.png ffffff ff0052
 
 
 ## Licence
-###<a href="https://github.com/slectgit/qrust/blob/master/LICENSE">MIT</a>
+### <a href="https://github.com/slectgit/qrust/blob/master/LICENSE">MIT</a>
