@@ -1,0 +1,3 @@
+[submodule "qr_util"]
+	path = qr_util
+	url = https://github.com/elparthka/qrcode-generator.git
