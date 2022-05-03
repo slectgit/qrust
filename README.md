@@ -22,3 +22,7 @@ qrust "https://github.com/slectgit/" 256 slect.png ff0052 ffffff
 qrust "https://github.com/slectgit/deno-rest" 128 slect-alt.png ffffff ff0052
 ```
 <img src="https://raw.githubusercontent.com/slectgit/qrust/master/example/slect-alt.png"/>
+
+
+## Licence
+### <a href="https://github.com/slectgit/qrust/blob/master/LICENSE">MIT</a>
